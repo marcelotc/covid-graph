@@ -1,8 +1,9 @@
+import MainPage from './modules/main';
 
 function App() {
   return (
     <div>
-      Teste
+      <MainPage></MainPage>
     </div>
   );
 }
